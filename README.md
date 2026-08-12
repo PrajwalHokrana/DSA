@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrajwalHokrana/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrajwalHokrana/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrajwalHokrana/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrajwalHokrana/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/PrajwalHokrana/DSA/tree/master/3110-score-of-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
