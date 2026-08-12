@@ -83,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrajwalHokrana/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3110-score-of-a-string](https://github.com/PrajwalHokrana/DSA/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
