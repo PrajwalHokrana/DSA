@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/PrajwalHokrana/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/PrajwalHokrana/DSA/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrajwalHokrana/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PrajwalHokrana/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrajwalHokrana/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalHokrana/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalHokrana/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PrajwalHokrana/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/PrajwalHokrana/DSA/tree/master/1920-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PrajwalHokrana/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrajwalHokrana/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## String
