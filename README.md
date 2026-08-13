@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrajwalHokrana/DSA/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrajwalHokrana/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/PrajwalHokrana/DSA/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrajwalHokrana/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalHokrana/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/PrajwalHokrana/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalHokrana/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/PrajwalHokrana/DSA/tree/master/0901-online-stock-span) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/PrajwalHokrana/DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
