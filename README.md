@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PrajwalHokrana/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/PrajwalHokrana/DSA/tree/master/0901-online-stock-span) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PrajwalHokrana/DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/PrajwalHokrana/DSA/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/PrajwalHokrana/DSA/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
