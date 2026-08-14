@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/PrajwalHokrana/DSA/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrajwalHokrana/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrajwalHokrana/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/PrajwalHokrana/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrajwalHokrana/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/PrajwalHokrana/DSA/tree/master/0134-gas-station) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/PrajwalHokrana/DSA/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
