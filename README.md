@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2236-root-equals-sum-of-children](https://github.com/PrajwalHokrana/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2236-root-equals-sum-of-children](https://github.com/PrajwalHokrana/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -244,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0222-count-complete-tree-nodes) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
