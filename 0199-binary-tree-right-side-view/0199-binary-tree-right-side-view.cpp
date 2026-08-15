@@ -37,7 +37,6 @@ public:
                     q.push(curr->right);
                 }
             } else {
-                cout << endl;
                 if (!q.empty()) {
                     q.push(NULL);
                 }
