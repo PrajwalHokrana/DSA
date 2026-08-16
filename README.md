@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PrajwalHokrana/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrajwalHokrana/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrajwalHokrana/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/PrajwalHokrana/DSA/tree/master/3110-score-of-a-string) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PrajwalHokrana/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PrajwalHokrana/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
