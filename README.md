@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/PrajwalHokrana/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrajwalHokrana/DSA/tree/master/0503-next-greater-element-ii) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrajwalHokrana/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1534-count-good-triplets](https://github.com/PrajwalHokrana/DSA/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/PrajwalHokrana/DSA/tree/master/1672-richest-customer-wealth) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalHokrana/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrajwalHokrana/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2236-root-equals-sum-of-children](https://github.com/PrajwalHokrana/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2236-root-equals-sum-of-children](https://github.com/PrajwalHokrana/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -298,4 +302,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
