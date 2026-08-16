@@ -12,24 +12,28 @@
  */
 class Solution {
 public:
-    void paths(vector<string>& ans, TreeNode* root, string str) {
-        if (root->left==NULL && root->right==NULL) {
-            str += to_string(root->val);
+    void paths(TreeNode* root, string str, vector<string>& ans) {
+        if (!root) return;
+
+        str += to_string(root->val);
+
+        // Leaf node: store complete path and terminate this branch
+        if (!root->left && !root->right) {
             ans.push_back(str);
             return;
         }
 
-        str += to_string(root->val) + "->";
-
-        if (root->left)
-            paths(ans, root->left, str);
-        if (root->right)
-            paths(ans, root->right, str);
+        // Internal node: append arrow and explore non-null children
+        str += "->";
+        if (root->left) paths(root->left, str, ans);
+        if (root->right) paths(root->right, str, ans);
     }
+
     vector<string> binaryTreePaths(TreeNode* root) {
         vector<string> ans;
-        string str;
-        paths(ans,root,str);
+        if (!root) return ans;
+        
+        paths(root, "", ans);
         return ans;
     }
 };
