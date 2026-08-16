@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PrajwalHokrana/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/PrajwalHokrana/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
