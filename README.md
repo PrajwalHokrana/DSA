@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrajwalHokrana/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2396-strictly-palindromic-number](https://github.com/PrajwalHokrana/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/PrajwalHokrana/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalHokrana/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrajwalHokrana/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/PrajwalHokrana/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/PrajwalHokrana/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/PrajwalHokrana/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
