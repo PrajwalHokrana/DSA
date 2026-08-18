@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrajwalHokrana/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/PrajwalHokrana/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrajwalHokrana/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrajwalHokrana/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
 | [3838-weighted-word-mapping](https://github.com/PrajwalHokrana/DSA/tree/master/3838-weighted-word-mapping) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PrajwalHokrana/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrajwalHokrana/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrajwalHokrana/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
