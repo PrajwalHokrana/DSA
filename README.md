@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/PrajwalHokrana/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrajwalHokrana/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/PrajwalHokrana/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/PrajwalHokrana/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PrajwalHokrana/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/PrajwalHokrana/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PrajwalHokrana/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PrajwalHokrana/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PrajwalHokrana/DSA/tree/master/2236-root-equals-sum-of-children) |
