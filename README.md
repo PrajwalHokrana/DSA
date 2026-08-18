@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/PrajwalHokrana/DSA/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrajwalHokrana/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrajwalHokrana/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/PrajwalHokrana/DSA/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/PrajwalHokrana/DSA/tree/master/3838-weighted-word-mapping) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/PrajwalHokrana/DSA/tree/master/0134-gas-station) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
