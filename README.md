@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/PrajwalHokrana/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrajwalHokrana/DSA/tree/master/0503-next-greater-element-ii) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/PrajwalHokrana/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrajwalHokrana/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1534-count-good-triplets](https://github.com/PrajwalHokrana/DSA/tree/master/1534-count-good-triplets) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/PrajwalHokrana/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1672-richest-customer-wealth](https://github.com/PrajwalHokrana/DSA/tree/master/1672-richest-customer-wealth) |
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/PrajwalHokrana/DSA/tree/master/0134-gas-station) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/PrajwalHokrana/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
 |  |
