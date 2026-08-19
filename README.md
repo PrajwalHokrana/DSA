@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PrajwalHokrana/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrajwalHokrana/DSA/tree/master/0503-next-greater-element-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PrajwalHokrana/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0877-stone-game](https://github.com/PrajwalHokrana/DSA/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrajwalHokrana/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1534-count-good-triplets](https://github.com/PrajwalHokrana/DSA/tree/master/1534-count-good-triplets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/PrajwalHokrana/DSA/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrajwalHokrana/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2396-strictly-palindromic-number](https://github.com/PrajwalHokrana/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrajwalHokrana/DSA/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PrajwalHokrana/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0877-stone-game](https://github.com/PrajwalHokrana/DSA/tree/master/0877-stone-game) |
 ## Queue
 |  |
 | ------- |
@@ -390,4 +393,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/PrajwalHokrana/DSA/tree/master/2396-strictly-palindromic-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PrajwalHokrana/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PrajwalHokrana/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PrajwalHokrana/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
