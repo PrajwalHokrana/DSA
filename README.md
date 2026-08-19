@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/PrajwalHokrana/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrajwalHokrana/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrajwalHokrana/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/PrajwalHokrana/DSA/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
 | [3838-weighted-word-mapping](https://github.com/PrajwalHokrana/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrajwalHokrana/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PrajwalHokrana/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3467-transform-array-by-parity](https://github.com/PrajwalHokrana/DSA/tree/master/3467-transform-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
@@ -405,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PrajwalHokrana/DSA/tree/master/0877-stone-game) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/PrajwalHokrana/DSA/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
