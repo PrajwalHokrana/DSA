@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/PrajwalHokrana/DSA/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
 | [3838-weighted-word-mapping](https://github.com/PrajwalHokrana/DSA/tree/master/3838-weighted-word-mapping) |
+| [3895-count-digit-appearances](https://github.com/PrajwalHokrana/DSA/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrajwalHokrana/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrajwalHokrana/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrajwalHokrana/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrajwalHokrana/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/PrajwalHokrana/DSA/tree/master/3895-count-digit-appearances) |
 ## Stack
 |  |
 | ------- |
