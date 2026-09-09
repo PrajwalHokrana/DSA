@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrajwalHokrana/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrajwalHokrana/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrajwalHokrana/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3871-count-commas-in-range-ii](https://github.com/PrajwalHokrana/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/PrajwalHokrana/DSA/tree/master/3895-count-digit-appearances) |
 ## Stack
 |  |
