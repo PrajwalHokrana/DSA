@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/PrajwalHokrana/DSA/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrajwalHokrana/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/PrajwalHokrana/DSA/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
 | [3838-weighted-word-mapping](https://github.com/PrajwalHokrana/DSA/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/PrajwalHokrana/DSA/tree/master/3895-count-digit-appearances) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/PrajwalHokrana/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrajwalHokrana/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrajwalHokrana/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/PrajwalHokrana/DSA/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/PrajwalHokrana/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/PrajwalHokrana/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PrajwalHokrana/DSA/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/PrajwalHokrana/DSA/tree/master/1534-count-good-triplets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrajwalHokrana/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Lifting
 |  |
 | ------- |
