@@ -12,25 +12,23 @@
  */
 class Solution {
 public:
-    int runningSum = 0;
-
+    int runningSum=0;
     void reverseInorder(TreeNode* root) {
-        if (!root)
+        if (!root) {
             return;
+        }
 
-        // 1. Visit Right Subtree (larger values first)
         reverseInorder(root->right);
+        runningSum+=root->val;
 
-        // 2. Process Current Node
-        runningSum += root->val;
         root->val = runningSum;
 
-        // 3. Visit Left Subtree (smaller values last)
         reverseInorder(root->left);
+
+        return;
     }
 
     TreeNode* bstToGst(TreeNode* root) {
-        runningSum = 0;
         reverseInorder(root);
         return root;
     }
