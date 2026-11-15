@@ -4,20 +4,24 @@ private:
 
     // Returns {subtreeSum, nodeCount}
     pair<int, int> dfs(TreeNode* root) {
-        if (!root) return {0, 0};
+        if (!root) {
+            return {0, 0};
+        }
 
-        auto [leftSum, leftCount] = dfs(root->left);
-        auto [rightSum, rightCount] = dfs(root->right);
+        pair<int, int> left = dfs(root->left);
+        pair<int, int> right = dfs(root->right);
 
-        int totalSum = leftSum + rightSum + root->val;
-        int totalCount = leftCount + rightCount + 1;
+        int sum = left.first + right.first + root->val;
+        int nodes = left.second + right.second + 1;
 
-        // Integer division automatically rounds down
-        if (totalSum / totalCount == root->val) {
+        int avg = sum/nodes;
+
+        if(avg==root->val)
+        {
             matchingNodes++;
         }
 
-        return {totalSum, totalCount};
+        return {sum,nodes};
     }
 
 public:
